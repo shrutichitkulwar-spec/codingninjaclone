@@ -76,7 +76,7 @@ App will run at: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 🎨 Tailwind Setup
+## Tailwind Setup
 
 Tailwind is configured using:
 
@@ -86,7 +86,7 @@ Tailwind is configured using:
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 * React component structuring
 * Client-side routing
@@ -96,7 +96,7 @@ Tailwind is configured using:
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 * Authentication with backend
 * API integration
@@ -106,13 +106,13 @@ Tailwind is configured using:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(Add screenshots here)*
 
 ---
 
-## 📜 Disclaimer
+## Disclaimer
 
 This project is for **educational purposes only** and is **not affiliated with Coding Ninjas**.
 
